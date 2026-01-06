@@ -4,7 +4,7 @@
   "pub_date": "2026-01-06T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWozckVvazA4VFJELzFRZFZaMWFpU3RXb3Axbk1iK1d0elN1am1lajlISnVEVS9xN1Q3eTl3aUp3dVF2QVpzOTVrMjdNQXJqdWF0cFF5MUgxTTNHWEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjkzMjc2CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQxX3g2NC1zZXR1cC5uc2lzLnppcAoxMXJWRUlUOXhvMytsNy9SQ0pTL2k0aUdvNGVXbVdrQ2EvRGM3eUFYTWx4NE1GQ0ZOWm13c2VlbFg0ZUxDRGcrSjBVMUVFNjd5SGoyZ3diTGsxbWtCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXU5ZUthajhnUHk1eUJUSXFVKzlXd0FSUjRWMU5GejNDYjA0dEpvK1I5QysxQlZsQ1pTUnFXaGhlc0xJaXlMRktRNkR1VFBXTVpXaGtsSzdGZ1ZZaGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Njk1MTkwCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQxX3g2NC1zZXR1cC5uc2lzLnppcAozN0FMcWhqbTN5ZFNaN3lMNlNSZlMwOFZ1ejhzcXlRaWl3T0FybUtsMmRwNXZSRDRKWkpkREZZdkNEaDF4Y29lRmkzbENCNUkyN3JWSmtoc3pGV21CZz09Cg==",
       "url": "https://github.com/1803233552/genshin-artifact-updater/releases/download/v5.33.41/genshin_artifact_5.33.41_x64-setup.nsis.zip"
     }
   }
