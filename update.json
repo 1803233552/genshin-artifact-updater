@@ -1,0 +1,11 @@
+{
+  "version": "5.33.41",
+  "notes": "修正Skirk技能伤害计算",
+  "pub_date": "2026-01-06T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWozckVvazA4VFJELzFRZFZaMWFpU3RXb3Axbk1iK1d0elN1am1lajlISnVEVS9xN1Q3eTl3aUp3dVF2QVpzOTVrMjdNQXJqdWF0cFF5MUgxTTNHWEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjkzMjc2CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQxX3g2NC1zZXR1cC5uc2lzLnppcAoxMXJWRUlUOXhvMytsNy9SQ0pTL2k0aUdvNGVXbVdrQ2EvRGM3eUFYTWx4NE1GQ0ZOWm13c2VlbFg0ZUxDRGcrSjBVMUVFNjd5SGoyZ3diTGsxbWtCUT09Cg==",
+      "url": "https://github.com/1803233552/genshin-artifact-updater/releases/download/v5.33.41/genshin_artifact_5.33.41_x64-setup.nsis.zip"
+    }
+  }
+}
