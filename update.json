@@ -1,10 +1,10 @@
 {
-  "version": "5.33.42",
-  "notes": "修正Skirk技能伤害计算",
+  "version": "5.33.41",
+  "notes": "修正Skirk技能伤害计算,添加自动更新，恰斯卡目标函数优化",
   "pub_date": "2026-01-06T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXNPbmV5TDN4bm1XNkduTjdXRWZKYVFWRHhUcUxCV0puUXZuQjBuclUwNUd3V25MZ0szYWU1b2M2MDJ0WklBUWlldFRhSXRTT2FPSVR3ZmZUMVJ6L3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzAyNjYxCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQxX3g2NC1zZXR1cC5uc2lzLnppcApSV29wbjlSU2FCQWh4eGJmZW0vWU5GMzVBQ05nd01mTEs4SzIzdmw1SmJRc0NEclNkN29XUXkzVkVsam5WQ3FHbWlvUVJzYVF3cVFIKzNvUXdRa0ZCdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXQxUytZYWg4NUZFdk8yeTVicTI4cEZZdGFSUXFWNWZzeG9FK2I1K0hxcDFhbUgyWCtGYkx6QkRJclhwWlppQ01WYWd1cEo0R2xYdUEzaDd1Z0hlU1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Nzg0ODMwCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQxX3g2NC1zZXR1cC5uc2lzLnppcAp5Sm9OcW9Tb2p5QUxSL3JnWHV4VFZOK2hKUUJKZ05Rc3FYUjRpbVdrbXZiSE44NEdENDFQWGFJZ0twdHZ4eGh3b1VwVzRoWkhxUEZpV0QzRTZZK0JDUT09Cg==",
       "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.41/genshin_artifact_5.33.41_x64-setup.nsis.zip"
     }
   }
