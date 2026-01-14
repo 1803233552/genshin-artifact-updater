@@ -1,11 +1,11 @@
 {
-  "version": "5.33.42",
-  "notes": "修复一些bug，添加内置扫描器，添加了一些角色和武器",
+  "version": "5.33.43",
+  "notes": "更新内置扫描器，添加风起之日和晨星与月的晓歌圣遗物套装",
   "pub_date": "2026-01-06T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWtMeGdaMDZXUXhFMHVNTnhPRDEvMDVLMUdDUjRmVVZydkU2aTdCeEdCcXFKWmpKbkRtSEQxODM5bTlzbnk5aDBhVnhBNk1IYmxEeVBRU1hIUXo0RWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzE0MzgwCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQyX3g2NC1zZXR1cC5uc2lzLnppcApuSkg3NFZKWlBpUlgrZU90SXVrYis1ZGRFaTdWbDFGYTNJaTVFTjE5djA5L1NnSWt3Q1ZtbmpQY1Y0ME0zNUZQWkNCZ25vSEpjQlJKL3RybnIwZnlEUT09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.42/genshin_artifact_5.33.42_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaW1zbFoyS2lFUnFaQnM3Wk9scjJxRWxzcmlIa3RIRE9EZjRpSEJNZVl1M05KNTlselZ6eUVoQlkrN2MwQk5lUTRUdUdzY1RTS2dEOGVta29Vak9Tb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4Mzk4MDc1CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQzX3g2NC1zZXR1cC5uc2lzLnppcApyUXducXhDckpUcFkzT0xtVEFxSkZiNlBJOGtJRDJiOEhMV1ZGb3h4NnVqdGZ0UWh2am1odWRPWlVLUk9PSEU3VGdaVDNuMzYzMGx2Ym9PaG5Lb2JCdz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.43/genshin_artifact_5.33.43_x64-setup.nsis.zip"
     }
   }
 }
