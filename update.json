@@ -1,11 +1,11 @@
 {
-  "version": "5.33.43",
-  "notes": "更新内置扫描器，添加风起之日和晨星与月的晓歌圣遗物套装",
+  "version": "5.33.44",
+  "notes": "桌面端加入记忆窗口位置和大小功能。添加爱可菲二命buff。添加旅行者全元素共鸣buff。添加角色奇偶。添加一些图标。优化通用目标函数（如，最大蒸发伤害，水伤），加入技能和倍率类型判断。在计算设置中增加“攻击力”、“防御力”、“生命值”最小值限定的功能。修正哥伦比娅缺失下落攻击及相关倍率。",
   "pub_date": "2026-01-06T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaW1zbFoyS2lFUnFaQnM3Wk9scjJxRWxzcmlIa3RIRE9EZjRpSEJNZVl1M05KNTlselZ6eUVoQlkrN2MwQk5lUTRUdUdzY1RTS2dEOGVta29Vak9Tb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4Mzk4MDc1CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQzX3g2NC1zZXR1cC5uc2lzLnppcApyUXducXhDckpUcFkzT0xtVEFxSkZiNlBJOGtJRDJiOEhMV1ZGb3h4NnVqdGZ0UWh2am1odWRPWlVLUk9PSEU3VGdaVDNuMzYzMGx2Ym9PaG5Lb2JCdz09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.43/genshin_artifact_5.33.43_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWxGdUlhdy9lQ1ZMWEFhd2Urd2hCclJwOEd3VnE1UndUYjBIRm40c2hQM0FoNjRvREI5MTRJTzFjQkVWeGlUVlRmK2tqYXBkOStsczUzckpLNEhTcndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODQwODQ1CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ0X3g2NC1zZXR1cC5uc2lzLnppcApwbk5ydmx2VFMxcWV6WGZhbkUrSTFMYUNDVGxnQjFHaytVZVhDeDFudWtWMXhreS9RbGJyWjZJdUhsNDYyaVZ4aWtJK1M0RUhLTFI1ejc4VytsTXRDdz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.44/genshin_artifact_5.33.44_x64-setup.nsis.zip"
     }
   }
 }
