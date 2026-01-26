@@ -1,11 +1,11 @@
 {
   "version": "5.33.44",
-  "notes": "桌面端加入记忆窗口位置和大小功能。添加爱可菲二命buff。添加旅行者全元素共鸣buff。添加角色奇偶。添加一些图标。优化通用目标函数（如，最大蒸发伤害，水伤），加入技能和倍率类型判断。在计算设置中增加“攻击力”、“防御力”、“生命值”最小值限定的功能。修正哥伦比娅缺失下落攻击及相关倍率。",
-  "pub_date": "2026-01-06T12:00:00Z",
+  "notes": "添加计算预设页面修改预设名字功能。添加buff，自定义元素伤害加成。添加buff，伊涅芙-「全相重构协议」。添加丝柯克一命晶刃伤害。修正哥伦比娅下落攻击类型。修正千织文本错误。修正哥伦比娅-「月兆祝赐·借汝月光」上限生命值。",
+  "pub_date": "2026-01-26T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWxGdUlhdy9lQ1ZMWEFhd2Urd2hCclJwOEd3VnE1UndUYjBIRm40c2hQM0FoNjRvREI5MTRJTzFjQkVWeGlUVlRmK2tqYXBkOStsczUzckpLNEhTcndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODQwODQ1CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ0X3g2NC1zZXR1cC5uc2lzLnppcApwbk5ydmx2VFMxcWV6WGZhbkUrSTFMYUNDVGxnQjFHaytVZVhDeDFudWtWMXhreS9RbGJyWjZJdUhsNDYyaVZ4aWtJK1M0RUhLTFI1ejc4VytsTXRDdz09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.44/genshin_artifact_5.33.44_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXYyRG9wdWY4TDE2c2JGc3FaOVJFQWEvaUpva21Ec2w2MmVpTm9XV2FkcGZDUGZzWm5vQkRoTTUyRmlyYTQwdEg5N3R1V0diWU5Ld0toVDdxSnE0Qmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Mzk3OTQ3CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ1X3g2NC1zZXR1cC5uc2lzLnppcAphQzJoM3RONmZUWTNYZHgrN0RFOUpSZUpvT2p4MDhldWd5bFc3WHJUSUUyTGFXbTlrUWU0a1pVVWtuUGRpVlV4OGZzQUtPQXRYR21XZmJKZGI0ZndCdz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.45/genshin_artifact_5.33.45_x64-setup.nsis.zip"
     }
   }
 }
