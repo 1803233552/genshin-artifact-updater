@@ -1,11 +1,11 @@
 {
-  "version": "5.33.46",
-  "notes": "添加计算预设页面修改预设名字功能。添加buff，自定义元素伤害加成。添加buff，伊涅芙-「全相重构协议」。添加丝柯克一命晶刃伤害。修正哥伦比娅下落攻击类型。修正千织文本错误。修正哥伦比娅-「月兆祝赐·借汝月光」上限生命值。",
-  "pub_date": "2026-01-26T12:00:00Z",
+  "version": "5.33.47",
+  "notes": "添加角色兹白和叶洛亚及相关buff，武器朏魄含光。计算器页面BUFF支持配置组切换。计算预设页面添加修改名称功能。添加菲谢尔-「魔女的前夜礼·宵世幻奏」。添加钟离盾量显示。提高buff菈乌玛-「苍色祷歌」上限。",
+  "pub_date": "2026-02-03T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXNtOCtoS2xFMlU0NS9iVmxoN3NtNE9RVEpLNDlPdzVVN3R0RGx5V0ZydGdlUWhGTnBsMmN6clRiVnlMT3JmakxmUzNqa1NCODZuVjhrc2IzTjB6bXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDAzMzk5CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ2X3g2NC1zZXR1cC5uc2lzLnppcApDTkpuOWpJdWhGNzVTdnlTTVRlZ1E3VHdmMXpOeW9Pb1ZubHhETW5ndlduZVJpbENpbVJlenpvMnI0RVR3a2hkbTU5Mkt5TThDQ1JHbVJWVUd5Y1hCdz09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.46/genshin_artifact_5.33.46_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWk2VnpERWhpWi95cVVaQ2NYM0E2ZHRIMjhsenFPVi9NQkh3VG5tVEl2aTZvdlBUTy9GUWgyNE1aRFZOZE9iTDNzQVE2cWI3Y0FXbStXeWQxaXRvbXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTIwNzA1CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ3X3g2NC1zZXR1cC5uc2lzLnppcAowQS9pQWVFd2NjdE9lbTFtckFIckhDMnc1a0lndER2a01lamxBRFFrVXBYVnVORnZWMXVCR1ZMRnFEbWkwSzlGbDhSMG5oK2p3T0kyMlMrSHJUVlRBQT09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.47/genshin_artifact_5.33.47_x64-setup.nsis.zip"
     }
   }
 }
