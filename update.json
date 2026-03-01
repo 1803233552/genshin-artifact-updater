@@ -1,11 +1,11 @@
 {
-  "version": "5.33.47",
-  "notes": "添加角色兹白和叶洛亚及相关buff，武器朏魄含光。计算器页面BUFF支持配置组切换。计算预设页面添加修改名称功能。添加菲谢尔-「魔女的前夜礼·宵世幻奏」。添加钟离盾量显示。提高buff菈乌玛-「苍色祷歌」上限。",
+  "version": "5.33.48",
+  "notes": "添加角色：法尔伽，武器：狼的武功歌。buff栏添加“复制并新建”按钮。添加buff-爱诺c6的月结晶增伤，欧洛伦6命加 10% ~ 30 %攻击，玛薇卡-「基扬戈兹」，元素共鸣-月兆的月曜反应增伤和月结晶反应伤害擢升。恰斯卡默认的计算预设改为 “恰斯卡-绒翎焕光”。窗口上边添加置顶按钮。添加武器黑檀弓，虹蛇的雨弦，冷寂迸音，琥珀玥，拾慧铸熔，石英大剑，「一心传」名刀。",
   "pub_date": "2026-02-03T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWk2VnpERWhpWi95cVVaQ2NYM0E2ZHRIMjhsenFPVi9NQkh3VG5tVEl2aTZvdlBUTy9GUWgyNE1aRFZOZE9iTDNzQVE2cWI3Y0FXbStXeWQxaXRvbXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTIwNzA1CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ3X3g2NC1zZXR1cC5uc2lzLnppcAowQS9pQWVFd2NjdE9lbTFtckFIckhDMnc1a0lndER2a01lamxBRFFrVXBYVnVORnZWMXVCR1ZMRnFEbWkwSzlGbDhSMG5oK2p3T0kyMlMrSHJUVlRBQT09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.47/genshin_artifact_5.33.47_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWg1TzRPYjFSZ292TGpmVFNpcVJmTmt2a1ZnQVJHVHl1bVBHc2tvRVdISGhYM1FoVFAxeDkxSFFNdDNYTU8rbHJCNlcvUzU4NWRyc1R0WnVGb2VZZ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMzQ2NTQ5CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ4X3g2NC1zZXR1cC5uc2lzLnppcAo2bGsvaVEvWWdxVGNJc0NTS3I2VElsd3ExOGNSanBTZXFTZkRSdnFFWm1jS2w0Z2NMK0V5S0htZVdPczhhTmF0SWhCUTcvNlByVVk1N3dza1gxc2pEZz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.48/genshin_artifact_5.33.48_x64-setup.nsis.zip"
     }
   }
 }
