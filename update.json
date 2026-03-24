@@ -1,11 +1,11 @@
 {
-  "version": "5.33.49",
-  "notes": "修复圣遗物导入的一些BUG。DSL文档-高级用法新增：计算技能伤害接近某个值的说明。为阿蕾奇诺添加C2爆发伤害类型及技能映射。为嘉明新增默认目标函数，支持融化和蒸发率配置。修正风起之日圣遗物特效的攻击力加成逻辑。为部分角色默认目标函数添加圣遗物特效。修正新算法的集合约束检查。新增buff「祭星者之望」",
-  "pub_date": "2026-02-03T20:00:00Z",
+  "version": "5.33.50",
+  "notes": "- 修复若干已知问题\r\n- 优化部分角色配置\r\n- 新增若干功能\r\n- 计算设置新增自动筛选主词条\r\n- 限制窗口的最小尺寸为 800x600，并尝试解决UI显示异常问题\r\n- 在角色和BUFF系统新增，温迪-「魔女的前夜礼·颂时风若」效果\r\n- 优化BUFF：白辰之环-「樱之斋宫」，贯月矢-「苏生之叶」原木刀/森林王器-「种识之叶」，讨龙英杰谭-「传承」，默认精炼和应用比例\r\n- 新增BUFF：支离轮光-「流电圣敕」，香韵奏者-「甘美回奏」\r\n- 优化计算器页面的BUFF选择\r\n- 修正“圣祭者的辉杖”的暴击率异常\r\n- 修正杜林生命值异常\r\n- 在圣遗物潜力中新增“胚子潜力分析”\r\n- 调整词条收益曲线UI显示",
+  "pub_date": "2026-03-24T09:16:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXVjSFA1bVFaMDNmc2pjcHcxK1JDVmUvZ0U0U21ZQ3BHSGhhcVFob2p4bkI1VkFtb3JiUGJ6VDRFaW1xeUtIM3FSWWlnUjFia1BQTzNsQXIzb202SGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMjQ2NTIwCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjQ5X3g2NC1zZXR1cC5uc2lzLnppcApJQU5ZNzBjVVU2eU1wNURsY0xhREJ3d3hPTmpuMFBkclZHRFJRYXJjcUczdnZMYlg4Z3FSZXhpekI4Y1QwR1NUOEtrQkkybUMzcnM0MkRvNXcrUnREUT09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.49/genshin_artifact_5.33.49_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaW8yWFQ4R014ZTBheFhWcTVMQXRiQTQyWmxvaGo1YzJTaGEvZjcrQzAvbGJ6dHE0L0lKd3hJdlZLbTBNRXpab0duaEtXTjRDdXBXbVdyZS9EelVpWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM3OTI4CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjUwX3g2NC1zZXR1cC5uc2lzLnppcAoyRGw5TW1oWkIxYkU0OERrR0EwVUw2Ykcvc2tEdFk4NnhDRU5yOGk5anJTZHgwcGlrZU53WWZxaXQyQ1krVW5Wa1R5M0RERkFoT1BaYTBPbjU5UzBEZz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.50/genshin_artifact_5.33.50_x64-setup.nsis.zip"
     }
   }
 }
