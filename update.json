@@ -1,11 +1,11 @@
 {
-  "version": "5.33.50",
-  "notes": "- 修复若干已知问题\r\n- 优化部分角色配置\r\n- 新增若干功能\r\n- 计算设置新增自动筛选主词条\r\n- 限制窗口的最小尺寸为 800x600，并尝试解决UI显示异常问题\r\n- 在角色和BUFF系统新增，温迪-「魔女的前夜礼·颂时风若」效果\r\n- 优化BUFF：白辰之环-「樱之斋宫」，贯月矢-「苏生之叶」原木刀/森林王器-「种识之叶」，讨龙英杰谭-「传承」，默认精炼和应用比例\r\n- 新增BUFF：支离轮光-「流电圣敕」，香韵奏者-「甘美回奏」\r\n- 优化计算器页面的BUFF选择\r\n- 修正“圣祭者的辉杖”的暴击率异常\r\n- 修正杜林生命值异常\r\n- 在圣遗物潜力中新增“胚子潜力分析”\r\n- 调整词条收益曲线UI显示",
-  "pub_date": "2026-03-24T09:33:23Z",
+  "version": "5.33.51",
+  "notes": "- 修复若干已知问题\r\n- 优化部分角色配置\r\n- 新增角色及相关BUFF：莉奈娅\r\n- 新增武器及相关BUFF：霜结的誓金枝\r\n- 新增若干功能：设置-云同步，设置-数据导出 / 导入\r\n- 优化BUFF：支离轮光-「流电圣敕」，香韵奏者-「甘美回奏」，默认精炼和应用比例\r\n- 新增BUFF：昔时之歌4，千夜浮梦-「万夜协同」\r\n- 修正目标函数：“嘉明-狻猊舞者”的伤害异常",
+  "pub_date": "2026-04-08T06:15:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaW8yWFQ4R014ZTBheFhWcTVMQXRiQTQyWmxvaGo1YzJTaGEvZjcrQzAvbGJ6dHE0L0lKd3hJdlZLbTBNRXpab0duaEtXTjRDdXBXbVdyZS9EelVpWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM3OTI4CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjUwX3g2NC1zZXR1cC5uc2lzLnppcAoyRGw5TW1oWkIxYkU0OERrR0EwVUw2Ykcvc2tEdFk4NnhDRU5yOGk5anJTZHgwcGlrZU53WWZxaXQyQ1krVW5Wa1R5M0RERkFoT1BaYTBPbjU5UzBEZz09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.50/genshin_artifact_5.33.50_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaW0rZkRieXpEaFdnSm5jTlNON2hOK3YxV2dKeWM2aXZESHlxc2Fwd3FPWjViWlZ5RThDbSthR1d0YzZOTjRxSlZ5aEhMT0d5NlozNm1hNkVNK3dIWHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjI2Mzc3CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjUxX3g2NC1zZXR1cC5uc2lzLnppcAo1dzJ5bWJTTUdrK2ZCVHNQRm5KeWtCOUd2V21kRlMzNW0xZVNERWp5WnZCSGZSOHk0bjhtcWViNnlSUHpSRDI4eUJlZ1Jld3luSHhycXdiQ1hEZEZBUT09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.51/genshin_artifact_5.33.51_x64-setup.nsis.zip"
     }
   }
 }
