@@ -1,11 +1,11 @@
 {
-  "version": "5.33.53",
+  "version": "5.33.54",
   "notes": "- 修复若干已知问题\r\n- 优化部分角色配置\r\n- 添加主题设置-自定义背景\r\n- 添加计算器-DSL生成器",
-  "pub_date": "2026-05-20T12:53:00Z",
+  "pub_date": "2026-05-31T13:21:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaW15cm1yUVB4TjFwbC9aODJkRCsvZHhrZ29FdzZpVEZzcTVrMjBGYVdpZytLWElSYnRqZzFCaW9KY1BpNGh0bWUyQ2I4RXpxSE9tNzhhdk5SSUxHMWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjgxMjc5CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjUzX3g2NC1zZXR1cC5uc2lzLnppcApZWEhWeW1nUTB0NHlVOTJTbGpOY0RpbFBLdjVRNFExV1hjQmI1RDVNSjFpNHFNaDlmeUNpOG9qbHJNQmNUYnYwcXp2dVNnSVJrMGZ6N0sxV3FyRDZDdz09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.53/genshin_artifact_5.33.53_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXJQS1A5VXZlcTh3ZjlrWE5LSVQvZ1MxUmZtQXMrQ3A4bjNrNlowOTRWTUhuY3Yvd2FyVTlXbEE1MjdZdlcwVHhWQWFZZmVRSnNmczF2REsvcmRha1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjMzNTkxCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjU0X3g2NC1zZXR1cC5uc2lzLnppcApPWjZiUWIrcnVsc0UzTWJyckY5VEFzT2NIdVpid0VqWU5Gb0RWbDhSTmVpell3eStPVktvUGtKeFkrTHh3d3ZweDluWkwyT3BaN1pKZzJoblVyczVBZz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.54/genshin_artifact_5.33.54_x64-setup.nsis.zip"
     }
   }
 }
