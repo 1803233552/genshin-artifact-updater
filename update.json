@@ -1,11 +1,11 @@
 {
-  "version": "5.33.55",
+  "version": "5.33.56",
   "notes": "- 修复若干已知问题\r\n- 优化部分角色配置",
-  "pub_date": "2026-06-09T12:42:29Z",
+  "pub_date": "2026-07-01T09:22:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaWoxWU9qRVZRbGtFT2J6ZkJHdG5NK1FwWUM1elpqOGdMRjVtam9VdmlBSGRGUWV4empybUtvclZ1UTFMb0JBcjk3ZnhDUlNIUEhpUXpSK3lIZFJkT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA4Mzg2CWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjU1X3g2NC1zZXR1cC5uc2lzLnppcApmdmQ0R09QWU5HN3pEQnZyL1NwZHp3Ryt6M2U4bzAzRkxaT0Z4aUlKbi9UNUVkVWd6MExLczdLSjl6Y1lmZVQ0dHZFOHA5eWs2a0sra1dpK2RpcFVCQT09Cg==",
-      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.55/genshin_artifact_5.33.55_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVSTWFjdmpJaXBCL2pkWVZIcG50bCtjL1hnb0RpN09YSzV4Y2tNZmluUDdwVlNKK2pOVFhoek5lZFU4YUhCdllIWUQzdUs0WWIwOEdscytkeG9Lbk5YYm9PZmlyeGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODk3NDgwCWZpbGU6Z2Vuc2hpbl9hcnRpZmFjdF81LjMzLjU2X3g2NC1zZXR1cC5uc2lzLnppcAoxNVV5U1NZNFFveEg3ZmdXT2RlNTg4SmF3UUpwcVZzM2dyY1M3Y3drbzhYaVdNZStTc0dETyt2M0xrSlJ6R054aHU2UVh4ZTR0M2c0bVMrUEpOcG5DZz09Cg==",
+      "url": "https://gitee.com/a1803233552/genshin-artifact-updater/releases/download/v5.33.56/genshin_artifact_5.33.56_x64-setup.nsis.zip"
     }
   }
 }
